@@ -181,7 +181,7 @@
     /* FOOTER  */
     .footer {
       /* comment out position fixed if you want to make it look like the homework description, leave it in for stickiness */ 
-      position: fixed;
+      /*position: fixed;*/
       bottom: 0;  
       width: 100%;
       height: 40px;
@@ -242,7 +242,7 @@
     }
   
     .fa-github:hover {
-      color:#6e3f;  
+      color:#6e3f10;  
     }
   
     .fa-video {
